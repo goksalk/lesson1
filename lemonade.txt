@@ -4,4 +4,5 @@
 3.Nane
 4.Bal
 5.Bardak
-6.This a conflickt
+6.Conflict resolved
+
